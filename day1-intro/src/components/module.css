@@ -1,0 +1,12 @@
+.card_details {
+  display: flex;
+}
+.togglerBtn {
+    margin-bottom: 1.5rem;
+}
+.card_details > deleteById {
+    border: 1px solid red;
+    justify-content: end;
+    text-align: end;
+
+}
