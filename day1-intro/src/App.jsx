@@ -1,16 +1,12 @@
-import './App.css'
-import ContactLists from './components/Card'
-// import ContactCard from './components/ContactCard'
-
+import "./App.css";
+import ContactLists from "./components/Card";
 
 function App() {
-
   return (
     <div className="App">
-      {/* <ContactCard/> */}
-      <ContactLists/>
+      <ContactLists />
     </div>
-  )
+  );
 }
 
-export default App
+export default App;
